@@ -25,5 +25,7 @@ export default () =>
             </div>
             <p>Posted April 09, 2011</p>
             <Link to="/styled-page/">Go to Styled Page</Link>
+            <br />
+            <Link to="/about-css-modules/">Go to CSS Modules</Link>
         </div>
     </div>
